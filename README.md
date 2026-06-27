@@ -10,4 +10,4 @@ Most of these notes are scribbled while preparing and delivering lectures to my 
 
 This repository serves as my personal knowledge base and aims to help students, researchers, and practitioners explore the mathematical and conceptual foundations of modern AI.
 
-## Enjoy Scribbling !!
+Enjoy Scribbling !!
